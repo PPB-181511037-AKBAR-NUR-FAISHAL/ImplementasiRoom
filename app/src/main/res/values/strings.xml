@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_task">Task</string>
+    <string name="hint_desc">Description</string>
+    <string name="hint_deadl">Deadline</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Task not saved because it is empty.</string>
+</resources>
